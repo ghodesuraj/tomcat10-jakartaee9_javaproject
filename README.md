@@ -7,3 +7,5 @@ If you have an existing Tomcat 9 application, you can use the [Tomcat Jakarta EE
 ## Deploy to App Service
 
 ToDo
+Project for devops practice
+Java project, build maven and deploy on server for DevOps
